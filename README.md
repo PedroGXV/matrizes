@@ -1,3 +1,3 @@
-## Este projeto reguer a biblioteca numpy
+- Este projeto reguer a biblioteca *numpy*
 
 - Para executar: `python3 main.py`
